@@ -1,0 +1,14 @@
+:root{
+    --primary-color:#154c79;
+    --secondary-color: #1e81b0;
+ }
+ 
+ .title{
+     border: 2px solid #1e81b0;
+     border-radius: 3px;
+     padding: 20px 0;
+ }
+ 
+ .bg-color{
+     background-color: var(--primary-color);  
+ }
